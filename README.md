@@ -1,5 +1,4 @@
-# Minesweeper_DoubleDQN
-Using Double Deep Q-Network to learn to play Minesweeper game
+# Using Double Deep Q-Network to learn to play Minesweeper game.
 This project is based on the Minesweeper-DDQN implementation from [AlexMGitHub's Minesweeper-DDQN repository](https://github.com/AlexMGitHub/Minesweeper-DDQN).
 
 ## Original Minesweeper-DDQN Code
