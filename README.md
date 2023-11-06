@@ -9,6 +9,7 @@ The original Minesweeper-DDQN code is available under the MIT License, which all
 
 ## Modifications
 We have made the following modifications to the original code:
+- Modifying existing algorithms to implement Deep Q-Network. 
 - Changing neural network parameters for training in simpler environments.
 
 ## Contact
